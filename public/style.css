@@ -1,0 +1,23 @@
+* {
+  font-family: 'Helvetica';
+  opacity: 0.95;
+}
+.code {
+  background: rgba(0, 255, 0, 0.2);
+  font-family: 'monospace' !important;
+}
+code {
+  font-family: 'monospace' !important;
+}
+.block {
+  display: block;
+  background: rgba(0, 255, 0, 0.2);
+  width: 330px;
+}
+img {
+  display: block;
+  width: 220px;
+  opacity: 1;
+  position: relative;
+  bottom: 90px;
+}
